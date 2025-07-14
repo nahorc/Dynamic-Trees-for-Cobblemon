@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:arrow"
+    },
+    "title": {
+      "translate": "advancements.cobblemontrees.bulls_eye.title"
+    },
+    "description": {
+      "translate": "advancements.cobblemontrees.bulls_eye.desc"
+    }
+  },
+  "parent": "cobblemon:root",
+  "criteria": {
+    "dummy": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

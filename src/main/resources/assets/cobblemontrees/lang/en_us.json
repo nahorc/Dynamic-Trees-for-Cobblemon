@@ -1,0 +1,44 @@
+{
+  "block.cobblemontrees.apricorn_branch": "Apricorn Log",
+  "block.cobblemontrees.apricorn_leaves": "Apricorn Leaves",
+  "block.cobblemontrees.blue_apricorn": "Blue Apricorn",
+  "block.cobblemontrees.black_apricorn": "Black Apricorn",
+  "block.cobblemontrees.green_apricorn": "Green Apricorn",
+  "block.cobblemontrees.pink_apricorn": "Pink Apricorn",
+  "block.cobblemontrees.red_apricorn": "Red Apricorn",
+  "block.cobblemontrees.white_apricorn": "White Apricorn",
+  "block.cobblemontrees.yellow_apricorn": "Yellow Apricorn",
+  "block.cobblemontrees.blue_apricorn_sapling": "Blue Apricorn Sapling",
+  "block.cobblemontrees.black_apricorn_sapling": "Black Apricorn Sapling",
+  "block.cobblemontrees.green_apricorn_sapling": "Green Apricorn Sapling",
+  "block.cobblemontrees.pink_apricorn_sapling": "Pink Apricorn Sapling",
+  "block.cobblemontrees.red_apricorn_sapling": "Red Apricorn Sapling",
+  "block.cobblemontrees.white_apricorn_sapling": "White Apricorn Sapling",
+  "block.cobblemontrees.yellow_apricorn_sapling": "Yellow Apricorn Sapling",
+
+  "item.cobblemontrees.blue_apricorn_seed": "Blue Apricorn Sprout",
+  "item.cobblemontrees.black_apricorn_seed": "Black Apricorn Sprout",
+  "item.cobblemontrees.green_apricorn_seed": "Green Apricorn Sprout",
+  "item.cobblemontrees.pink_apricorn_seed": "Pink Apricorn Sprout",
+  "item.cobblemontrees.red_apricorn_seed": "Red Apricorn Sprout",
+  "item.cobblemontrees.white_apricorn_seed": "White Apricorn Sprout",
+  "item.cobblemontrees.yellow_apricorn_seed": "Yellow Apricorn Sprout",
+
+  "species.cobblemontrees.blue_apricorn": "Blue Apricorn",
+  "species.cobblemontrees.black_apricorn": "Black Apricorn",
+  "species.cobblemontrees.green_apricorn": "Green Apricorn",
+  "species.cobblemontrees.pink_apricorn": "Pink Apricorn",
+  "species.cobblemontrees.red_apricorn": "Red Apricorn",
+  "species.cobblemontrees.white_apricorn": "White Apricorn",
+  "species.cobblemontrees.yellow_apricorn": "Yellow Apricorn",
+
+  "cobblemontrees.subtitle.apricorn.fall": "An apricorn drops from the branch",
+
+  "death.attack.fall_apricorn_damage": "%1$s got beaned by a falling apricorn",
+
+  "advancements.cobblemontrees.bulls_eye.title": "Apri-shot!",
+  "advancements.cobblemontrees.bulls_eye.desc": "Land an arrow on an apricorn from over 20 blocks away — bullseye!",
+  "advancements.cobblemontrees.harvest_apricorn_seed": "The Poké Ball Blueprint",
+  "advancements.cobblemontrees.harvest_apricorn_seed.description": "Pick an unripe apricorn to get its sprout — the first step to crafting greatness",
+  "advancements.cobblemontrees.rainbow_apricorns.description": "Collect every color of apricorn"
+}

@@ -1,0 +1,9 @@
+{
+    "parent":"cobblemontrees:block/saplings/apricorn_sapling",
+    "textures": {
+        "particle":"cobblemon:block/apricorn_leaves",
+        "log":"cobblemon:block/apricorn_log",
+        "leaves":"cobblemon:block/apricorn_leaves",
+        "apricorn": "cobblemon:block/pink_apricorn"
+    }
+}

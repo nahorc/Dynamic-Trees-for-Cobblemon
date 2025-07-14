@@ -1,0 +1,44 @@
+{
+  "block.cobblemontrees.apricorn_branch": "Априкорновое бревно",
+  "block.cobblemontrees.apricorn_leaves": "Априкорновые листья",
+  "block.cobblemontrees.blue_apricorn": "Синий априкорн",
+  "block.cobblemontrees.black_apricorn": "Чёрный априкорн",
+  "block.cobblemontrees.green_apricorn": "Зелёный априкорн",
+  "block.cobblemontrees.pink_apricorn": "Розовый априкорн",
+  "block.cobblemontrees.red_apricorn": "Красный априкорн",
+  "block.cobblemontrees.white_apricorn": "Белый априкорн",
+  "block.cobblemontrees.yellow_apricorn": "Жёлтый априкорн",
+  "block.cobblemontrees.blue_apricorn_sapling": "Росток синего априкорна",
+  "block.cobblemontrees.black_apricorn_sapling": "Росток чёрного априкорна",
+  "block.cobblemontrees.green_apricorn_sapling": "Росток зелёного априкорна",
+  "block.cobblemontrees.pink_apricorn_sapling": "Росток розового априкорна",
+  "block.cobblemontrees.red_apricorn_sapling": "Росток красного априкорна",
+  "block.cobblemontrees.white_apricorn_sapling": "Росток белого априкорна",
+  "block.cobblemontrees.yellow_apricorn_sapling": "Росток жёлтого априкорна",
+
+  "item.cobblemontrees.blue_apricorn_seed": "Росток синего априкорна",
+  "item.cobblemontrees.black_apricorn_seed": "Росток чёрного априкорна",
+  "item.cobblemontrees.green_apricorn_seed": "Росток зелёного априкорна",
+  "item.cobblemontrees.pink_apricorn_seed": "Росток розового априкорна",
+  "item.cobblemontrees.red_apricorn_seed": "Росток красного априкорна",
+  "item.cobblemontrees.white_apricorn_seed": "Росток белого априкорна",
+  "item.cobblemontrees.yellow_apricorn_seed": "Росток жёлтого априкорна",
+
+  "species.cobblemontrees.blue_apricorn": "Синий априкорн",
+  "species.cobblemontrees.black_apricorn": "Чёрный априкорн",
+  "species.cobblemontrees.green_apricorn": "Зелёный априкорн",
+  "species.cobblemontrees.pink_apricorn": "Розовый априкорн",
+  "species.cobblemontrees.red_apricorn": "Красный априкорн",
+  "species.cobblemontrees.white_apricorn": "Белый априкорн",
+  "species.cobblemontrees.yellow_apricorn": "Жёлтый априкорн",
+
+  "cobblemontrees.subtitle.apricorn.fall": "Априкорн срывается с ветки",
+
+  "death.attack.fall_apricorn_damage": "%1$s получил по голове падающим априкорном",
+
+  "advancements.cobblemontrees.bulls_eye.title": "В априкорнчик!",
+  "advancements.cobblemontrees.bulls_eye.desc": "Попади стрелой в априкорн — как в яблочко, с расстояния более 20 блоков",
+  "advancements.cobblemontrees.harvest_apricorn_seed": "Ключ к фабрике покеболов",
+  "advancements.cobblemontrees.harvest_apricorn_seed.description": "Сорвите с априкорнового дерева недозрелый априкорн, чтобы получить росток",
+  "advancements.cobblemontrees.rainbow_apricorns.description": "Соберите все виды априкорнов"
+}

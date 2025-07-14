@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "ru.nachorhsz.cobblemontrees.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "cobblemontrees.refmap.json",
+  "mixins": ["CobblemonTreeCanceler"],
+  "client": [],
+  "minVersion": "0.8.5"
+}

@@ -1,0 +1,11 @@
+{
+  "apricorn_fall": {
+    "subtitle": "cobblemontrees.subtitle.apricorn.fall",
+    "sounds": [
+      {
+        "name": "cobblemontrees:apricorn/fall",
+        "stream": false
+      }
+    ]
+  }
+}

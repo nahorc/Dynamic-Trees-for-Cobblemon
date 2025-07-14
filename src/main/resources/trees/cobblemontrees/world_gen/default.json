@@ -1,0 +1,49 @@
+[
+  {
+    "select": {
+      "tag": "#cobblemon:has_feature/apricorns_dense"
+    },
+    "apply": {
+      "species": {
+        "method": "SPLICE_BEFORE",
+        "random": {
+          "cobblemontrees:green_apricorn": 1,
+          "cobblemontrees:yellow_apricorn": 1,
+          "cobblemontrees:pink_apricorn": 1,
+          "...": 450
+        }
+      }
+    }
+  },
+
+  {
+    "select": {
+      "tag": "#cobblemon:has_feature/apricorns_normal"
+    },
+    "apply": {
+      "species": {
+        "method": "SPLICE_BEFORE",
+        "random": {
+          "cobblemontrees:blue_apricorn": 1,
+          "cobblemontrees:red_apricorn": 1,
+          "...": 100
+        }
+      }
+    }
+  },
+  {
+    "select": {
+      "tag": "#cobblemon:has_feature/apricorns_sparse"
+    },
+    "apply": {
+      "species": {
+        "method": "SPLICE_BEFORE",
+        "random": {
+          "cobblemontrees:black_apricorn": 1,
+          "cobblemontrees:white_apricorn": 1,
+          "...": 50
+        }
+      }
+    }
+  }
+]

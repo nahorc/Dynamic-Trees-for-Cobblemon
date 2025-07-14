@@ -1,0 +1,11 @@
+{
+  "type": "cobblemontrees:apricorn",
+  "item_stack": "cobblemon:red_apricorn",
+  "max_age": 3,
+  "block_shapes": [
+    { "function": "fruit", "parameters": { "width": 3, "height": 3, "stem_length": 1 } },
+    { "function": "fruit", "parameters": { "width": 4, "height": 4, "stem_length": 1 } },
+    { "function": "fruit", "parameters": { "width": 5, "height": 5, "stem_length": 3 } },
+    { "function": "fruit", "parameters": { "width": 6, "height": 7, "stem_length": 4 } }
+  ]
+}

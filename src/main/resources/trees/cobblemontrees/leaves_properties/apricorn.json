@@ -1,0 +1,10 @@
+{
+  "primitive_leaves": "cobblemon:apricorn_leaves",
+  "type": "scruffy",
+  "cell_kit": "deciduous",
+  "family": "cobblemontrees:apricorn",
+  "scruffy_leaf_chance": 0.08,
+  "scruffy_max_hydro": 1,
+  "smother": 3,
+  "can_grow_on_ground": false
+}

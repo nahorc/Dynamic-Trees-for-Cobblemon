@@ -1,0 +1,91 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 16],
+	"textures": {
+		"particle": "cobblemon:block/apricorn_stage_2",
+		"apricorn": "cobblemon:block/apricorn_stage_2"
+	},
+	"elements": [
+		{
+			"name": "stem3",
+			"from": [6, 12.25, 6],
+			"to": [10, 13, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 2.5]},
+			"faces": {
+				"north": {"uv": [10, 13, 12, 14], "texture": "#apricorn"},
+				"east": {"uv": [8, 13, 10, 14], "texture": "#apricorn"},
+				"south": {"uv": [14, 13, 16, 14], "texture": "#apricorn"},
+				"west": {"uv": [12, 13, 14, 14], "texture": "#apricorn"},
+				"up": {"uv": [12, 13, 10, 9], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "apricorn1",
+			"from": [5.5, 8.25, 5.5],
+			"to": [10.5, 12.25, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.25, 2.5]},
+			"faces": {
+				"north": {"uv": [2.5, 5, 5, 9], "texture": "#apricorn"},
+				"east": {"uv": [0, 5, 2.5, 9], "texture": "#apricorn"},
+				"south": {"uv": [7.5, 5, 10, 9], "texture": "#apricorn"},
+				"west": {"uv": [5, 5, 7.5, 9], "texture": "#apricorn"},
+				"up": {"uv": [2.5, 0, 5, 5], "texture": "#apricorn"},
+				"down": {"uv": [5, 0, 7.5, 5], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "apricorn2",
+			"from": [6, 7.5, 6],
+			"to": [10, 8.25, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 2, 2]},
+			"faces": {
+				"north": {"uv": [2, 13, 4.5, 14], "texture": "#apricorn"},
+				"east": {"uv": [0, 13, 2.5, 14], "texture": "#apricorn"},
+				"south": {"uv": [5.5, 13, 8, 14], "texture": "#apricorn"},
+				"west": {"uv": [3.5, 13, 6, 14], "texture": "#apricorn"},
+				"down": {"uv": [7.5, 0, 5, 5], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "stem3",
+			"from": [8, 14, 8],
+			"to": [8, 16, 8.75],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 18, 8]},
+			"faces": {
+				"east": {"uv": [8, 1, 8.5, 4], "texture": "#apricorn"},
+				"west": {"uv": [10.5, 1, 11, 4], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "stem1",
+			"from": [8, 13, 7.25],
+			"to": [8, 14.5, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 8]},
+			"faces": {
+				"east": {"uv": [9.5, 3, 10, 5], "texture": "#apricorn"},
+				"west": {"uv": [9, 3, 9.5, 5], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "stem2",
+			"from": [8, 13.35, 8],
+			"to": [8, 14.85, 8.75],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 8]},
+			"faces": {
+				"east": {"uv": [7.5, 1, 8, 3], "texture": "#apricorn"},
+				"west": {"uv": [11, 1, 11.5, 3], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "stem2",
+			"from": [8, 13, 7.25],
+			"to": [8, 15, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 17, 8]},
+			"faces": {
+				"east": {"uv": [8.5, 2, 9, 5], "texture": "#apricorn"},
+				"west": {"uv": [10, 2, 10.5, 5], "texture": "#apricorn"}
+			}
+		}
+	]
+}

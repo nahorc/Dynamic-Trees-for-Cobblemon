@@ -1,0 +1,87 @@
+{
+  "parent": "cobblemon:harvest_apricorn_seed",
+  "display": {
+    "icon": {
+      "id": "cobblemon:yellow_apricorn_seed"
+    },
+    "title": {
+      "translate": "advancements.cobblemon.rainbow_apricorns"
+    },
+    "description": {
+      "translate": "advancements.cobblemontrees.rainbow_apricorns.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "goal_black": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "cobblemontrees:black_apricorn_seed" ]
+          }
+        ]
+      }
+    },
+    "goal_blue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "cobblemontrees:blue_apricorn_seed" ]
+          }
+        ]
+      }
+    },
+    "goal_green": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "cobblemontrees:green_apricorn_seed" ]
+          }
+        ]
+      }
+    },
+    "goal_pink": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "cobblemontrees:pink_apricorn_seed" ]
+          }
+        ]
+      }
+    },
+    "goal_red": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "cobblemontrees:red_apricorn_seed" ]
+          }
+        ]
+      }
+    },
+    "goal_white": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "cobblemontrees:white_apricorn_seed" ]
+          }
+        ]
+      }
+    },
+    "goal_yellow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "cobblemontrees:yellow_apricorn_seed" ]
+          }
+        ]
+      }
+    }
+  }
+}

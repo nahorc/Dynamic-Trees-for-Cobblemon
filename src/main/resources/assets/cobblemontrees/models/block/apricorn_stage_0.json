@@ -1,0 +1,70 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "cobblemon:block/apricorn_stage_0",
+		"apricorn": "cobblemon:block/apricorn_stage_0"
+	},
+	"elements": [
+		{
+			"name": "stem1",
+			"from": [8, 15, 7.5],
+			"to": [8, 16, 8.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 16, 8]},
+			"faces": {
+				"east": {"uv": [0, 1, 1, 2], "texture": "#apricorn"},
+				"west": {"uv": [1, 1, 2, 2], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "stem2",
+			"from": [7.5, 15, 8],
+			"to": [8.5, 16, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 16, 8]},
+			"faces": {
+				"east": {"uv": [2, 1, 2, 2], "texture": "#apricorn"},
+				"west": {"uv": [1, 1, 1, 2], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "stem3",
+			"from": [7, 14.5, 7],
+			"to": [9, 15, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 5.5, 1]},
+			"faces": {
+				"north": {"uv": [3, 7, 6, 8], "texture": "#apricorn"},
+				"east": {"uv": [0, 7, 3, 8], "texture": "#apricorn"},
+				"south": {"uv": [9, 7, 12, 8], "texture": "#apricorn"},
+				"west": {"uv": [6, 7, 9, 8], "texture": "#apricorn"},
+				"up": {"uv": [12, 5, 14, 7], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "apricorn1",
+			"from": [6.5, 12.5, 6.5],
+			"to": [9.5, 14.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 1.5]},
+			"faces": {
+				"north": {"uv": [3, 3, 6, 5], "texture": "#apricorn"},
+				"east": {"uv": [0, 3, 3, 5], "texture": "#apricorn"},
+				"south": {"uv": [9, 3, 12, 5], "texture": "#apricorn"},
+				"west": {"uv": [6, 3, 9, 5], "texture": "#apricorn"},
+				"up": {"uv": [6, 3, 3, 0], "texture": "#apricorn"},
+				"down": {"uv": [6, 0, 9, 3], "texture": "#apricorn"}
+			}
+		},
+		{
+			"name": "apricorn2",
+			"from": [7, 12, 7],
+			"to": [9, 12.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 2.5, 1]},
+			"faces": {
+				"north": {"uv": [3, 7, 6, 8], "texture": "#apricorn"},
+				"east": {"uv": [0, 7, 3, 8], "texture": "#apricorn"},
+				"south": {"uv": [9, 7, 12, 8], "texture": "#apricorn"},
+				"west": {"uv": [6, 7, 9, 8], "texture": "#apricorn"},
+				"down": {"uv": [9, 0, 7, 2], "texture": "#apricorn"}
+			}
+		}
+	]
+}
