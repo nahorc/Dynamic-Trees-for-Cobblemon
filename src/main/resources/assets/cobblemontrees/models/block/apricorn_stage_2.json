@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 16],
 	"textures": {
-		"particle": "cobblemon:block/apricorn_stage_2",
-		"apricorn": "cobblemon:block/apricorn_stage_2"
+		"particle": "cobblemontrees:block/apricorn_stage_2",
+		"apricorn": "cobblemontrees:block/apricorn_stage_2"
 	},
 	"elements": [
 		{

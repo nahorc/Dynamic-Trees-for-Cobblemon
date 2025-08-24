@@ -1,6 +1,6 @@
 {
   "parent": "block/leaves",
   "textures": {
-    "all": "cobblemon:block/apricorn_leaves"
+    "all": "cobblemontrees:block/apricorn_leaves"
   }
 }

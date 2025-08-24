@@ -8,7 +8,7 @@ Recommended: install [Jade](https://modrinth.com/mod/jade) for extra info in-gam
 * Saplings can be obtained in two ways: by breaking unripe apricorns, or waiting for the tree to drop a seed naturally from its canopy.
 * Apricorn color depends on the biome:
 
-1. Black and Yellow apricorns tend to grow in sparse or open woodlands.
+1. Black and White apricorns tend to grow in sparse or open woodlands.
 2. Red and Blue varieties prefer moderately dense forests.
 3. Pink, Green, and more Yellow are common in thick, overgrown biomes.
 
@@ -20,7 +20,7 @@ Recommended: install [Jade](https://modrinth.com/mod/jade) for extra info in-gam
 * Росток можно получить двумя способами: разбив недозревший априкорн или дождавшись, пока дерево случайно уронит семечко с листвы.
 * Цвет априкорнов зависит от биома:
 
-1. Чёрные и жёлтые — встречаются в редколесьях и других слабо-лесистых биомах.
+1. Чёрные и белые — встречаются в редколесьях и других слабо-лесистых биомах.
 2. Красные и синие — предпочитают умеренно-плотные леса.
 3. Розовые, зелёные и жёлтые — растут в густых, заросших биомах
 

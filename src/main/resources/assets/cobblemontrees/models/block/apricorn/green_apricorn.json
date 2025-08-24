@@ -1,7 +1,7 @@
 {
   "parent": "cobblemontrees:block/apricorn_stage_3",
   "textures": {
-    "particle": "cobblemon:block/green_apricorn",
-    "apricorn": "cobblemon:block/green_apricorn"
+    "particle": "cobblemontrees:block/green_apricorn",
+    "apricorn": "cobblemontrees:block/green_apricorn"
   }
 }
